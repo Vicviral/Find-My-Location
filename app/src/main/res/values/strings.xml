@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">i-Finder</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="none">None</string>
+
+    <string name="me">Me</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="layers">Layers</string>
+    <string name="settings">Settings</string>
+    <string name="developer">Victor Loveday</string>
+    <string name="dark_theme">Dark Theme</string>
+</resources>

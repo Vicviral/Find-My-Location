@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/normal_layer"
+        android:title="@string/normal"/>
+
+    <item
+        android:id="@+id/hybrid_layer"
+        android:title="@string/hybrid"/>
+
+    <item
+        android:id="@+id/satellite_layer"
+        android:title="@string/satellite"/>
+
+
+    <item
+        android:id="@+id/terrain_layer"
+        android:title="@string/terrain"/>
+
+    <item
+        android:id="@+id/none_layer"
+        android:title="@string/none"/>
+
+</menu>
